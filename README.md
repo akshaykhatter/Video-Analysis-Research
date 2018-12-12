@@ -1,7 +1,6 @@
-# Video-Analysis-Research-KWOC
+# Video-Analysis-Research
 A research project to explore new ways to explore and understand a video.
-
-## FOR KWOC PARTICIPANTS: Hello Coders, Even if you have some basic knowledge of machine learning projects, I will try guide you to make significant contribution. 
+ 
 
 ## INTRODUCTION:
 Deep learning for Video Text Analysis:
