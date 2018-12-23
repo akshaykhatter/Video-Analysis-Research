@@ -9,9 +9,9 @@ Using Deep learning techniques, find a new approach that analyses a video and th
 
 Generating semantic descriptions and knowledge between frames of video to understand the activity relation in them.
 
-## APPROACHES
-# 1. Image Captioning of all frames and summarising the complete text.
-# 2. Detecting objects in the video and finding a result using YOLO.
+# APPROACHES
+## 1. Image Captioning of all frames and summarising the complete text.
+## 2. Detecting objects in the video and finding a result using YOLO.
 
 ### Why is the particular topic chosen? Because this problem is a million-dollar problem at present and is being researched  in many of the premier institutions of the world. 
 Solving the visual symbol grounding problem has long been a goal of artificial intelligence. The field appears to be advancing closer to this goal with recent breakthroughs in deep learning for natural language grounding in static images. In this paper, we propose to translate videos directly to sentences using a unified deep neural network with both convolutional and recurrent structure. Described video datasets are scarce, and most existing methods have been applied to toy domains with a small vocabulary of possible words.
